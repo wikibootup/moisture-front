@@ -15,6 +15,7 @@ body {
 }
 
 .moisture-input {
+  text-align: center;
   border: none;
   outline: none;
   font-size: 30px;
